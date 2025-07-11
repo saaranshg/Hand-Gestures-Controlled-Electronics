@@ -41,10 +41,22 @@ This project aims to:
 - Optional UI – Add feedback or calibration interface.
 - Documentation – Comprehensive documentation for replication and deployment.
 
+## Phenomena Used
+
+![Phenomena](https://github.com/saaranshg/Hand-Gestures-Controlled-Electronics/blob/main/phenomena_used.jpg?raw=true "Phenomena")
+
+
+
 ## 🚀 Results
 - Successfully controlled devices (LEDs, motors) with recognized hand gestures.
 - Achieved real-time processing with minimal latency.
 - Built a prototype showcasing intuitive control over multiple devices.
+
+## Prototype and Circuit
+
+![Circuit](https://github.com/saaranshg/Hand-Gestures-Controlled-Electronics/blob/main/top_view_final_prototype.jpg?raw=true "Circuit")
+
+![Prototype](https://github.com/saaranshg/Hand-Gestures-Controlled-Electronics/blob/main/right_view.jpg?raw=true "Prototype")
 
 ## 🔮 Future Scope
 - Advanced Gesture Recognition – Integrate ML models for complex gestures.
