@@ -54,7 +54,7 @@ This project aims to:
 
 ## Prototype and Circuit
 
-<img src="https://github.com/saaranshg/Hand-Gestures-Controlled-Electronics/blob/main/top_view_final_prototype.jpg" style="transform: rotate(45deg);" alt="rotated image">
+<img src="https://github.com/saaranshg/Hand-Gestures-Controlled-Electronics/blob/main/top_view_final_prototype.jpg" style="transform: rotate(90deg);" alt="rotated image">
 ![Circuit](https://github.com/saaranshg/Hand-Gestures-Controlled-Electronics/blob/main/top_view_final_prototype.jpg?raw=true "Circuit")
 
 ![Prototype](https://github.com/saaranshg/Hand-Gestures-Controlled-Electronics/blob/main/right_view.jpg?raw=true "Prototype")
